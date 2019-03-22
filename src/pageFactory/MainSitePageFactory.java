@@ -25,7 +25,7 @@ public class MainSitePageFactory {
 
 
 
-        @FindBy(name="SharePrice")
+        @FindBy(name="txtPassword")
 
         WebElement pooper;
 
