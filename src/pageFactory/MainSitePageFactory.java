@@ -79,7 +79,7 @@ public class MainSitePageFactory {
         }
         public void setLogin(String strLogin){
 
-            t.sendKeys(strLogin);
+            accept.sendKeys(strLogin);
         }
 
 
